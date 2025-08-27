@@ -11,8 +11,8 @@ The purpose of this repository is to enhance **transparency** and **reproducibil
 
 ## Released Materials
 This repository currently contains the following English-translated documents:
-- **Semi-structured interview script** used during the experiment:contentReference[oaicite:0]{index=0}  
-- **Post-task questionnaire** administered after the experiment:contentReference[oaicite:1]{index=1}  
+- **Semi-structured interview script** used during the experiment  
+- **Post-task questionnaire** administered after the experiment
 
 These materials were originally written in Japanese and later translated into English.
 
